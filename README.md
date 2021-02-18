@@ -4,12 +4,12 @@
 #### What I'm doing right now:
 
 
-- 👀 Front-End Bootcamp, learning **HTML, CSS y JavaScript**. Loving it! 💌
-- 🌱 Next tools to learn are **Node.js and Vue.js**
+- 👀 Front-End Bootcamp, learning **HTML, CSS & JavaScript**. Loving it! 💌
+- 🌱 Next tools to learn are **React and Vue.js**
 - 📫 How to reach me: **oscarmaremar@gmail.com**
 - ⚡ Fun fact: **coffe and sun lover**
 <!-- - 📝 I regularly write articles on [blog](blog) -->
-<!-- - 🌱 I’m currently learning **things** -->
+<!-- - 🌱 I’m currently learningUpdate README **things** -->
 <!-- - 👯 I’m looking to collaborate on [nothing](link) -->
 <!-- - 🤝 I’m looking for help with [nothing](link) -->
 <!-- - 📄 Know about my experiences [resume](resume) -->
