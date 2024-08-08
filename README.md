@@ -1,13 +1,13 @@
 ### Hello 👋! My name is Óscar Baeza 
-#### Junior Front-End Web Developer 💻 , currently in **active job search** ♨️
+#### Bioinformatician, learning and working in IDIBAPS ♨️ :microscope:
 
 #### What I'm doing right now:
 
 
-- 👀 Front-End Bootcamp, learning **HTML, CSS & JavaScript**. Loving it! 💌
-- 🌱 Next tools to learn are **React and Vue.js**
+- 📝 Work in IDIBAPS, learning and applying **Snakemake and Conda**. Loving it! 💌
+- 🌱 Next tools to learn are **FAIR principles and Data Storage**
 - 📫 How to reach me: **oscarmaremar@gmail.com**
-- ⚡ Fun fact: **coffe and sun lover**
+- :coffee: Fun fact: **coffe and food lover**
 <!-- - 📝 I regularly write articles on [blog](blog) -->
 <!-- - 🌱 I’m currently learningUpdate README **things** -->
 <!-- - 👯 I’m looking to collaborate on [nothing](link) -->
