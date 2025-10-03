@@ -1,12 +1,12 @@
 ### Hello 👋! My name is Óscar Baeza 
-#### Bioinformatician, learning and working in IDIBAPS ♨️ :microscope:
+#### Data Governance Techinician, learning and working in Ajuntament del Masnou 🧑‍💻​
 
 #### What I'm doing right now:
 
 
-- 📝 Work in IDIBAPS, learning and applying **Snakemake and Conda**. Loving it! 💌
+- 📝 Work in Ajuntament del Masnou, learning and applying **Data Governance and Open Data**. Loving it! 💌
 - 🌱 Next tools to learn are **FAIR principles and Data Storage**
-- 📫 How to reach me: **oscarmaremar@gmail.com**
+- 📫 How to reach me: **baezafo+github@elmasnou.cat**
 - :coffee: Fun fact: **coffe and food lover**
 <!-- - 📝 I regularly write articles on [blog](blog) -->
 <!-- - 🌱 I’m currently learningUpdate README **things** -->
